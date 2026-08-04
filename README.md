@@ -58,19 +58,19 @@ A versão final foi publicada no **Netlify** e compartilhada com amigos para val
 
 ### Tela inicial
 
-![Tela inicial](tela-inicial.png)
+![Tela inicial](tela-inicial.PNG)
 
 ### Gameplay
 
-![Gameplay](gameplay.png)
+![Gameplay](gameplay.PNG)
 
 ### Personagem POPI
 
-![POPI](popi.png)
+![POPI](popi.PNG)
 
 ### Tela final
 
-![Tela final](final.png)
+![Tela final](final.PNG)
 
 ---
 
