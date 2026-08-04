@@ -62,11 +62,11 @@ A versão final foi publicada no **Netlify** e compartilhada com amigos para val
 
 ### Gameplay
 
-![Gameplay](gameplay.PNG)
+![Gameplay](./gameplay.PNG)
 
 ### Personagem POPI
 
-![POPI](popi.PNG)
+![POPI](./popi.PNG)
 
 ### Tela final
 
