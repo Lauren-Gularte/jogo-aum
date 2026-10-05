@@ -1,6 +1,6 @@
 # 🎮 Jogo AUM
 
-> Projeto acadêmico de jogo mobile desenvolvido durante a Sprint IA da PrograMaria.
+> Projeto acadêmico desenvolvido durante a Sprint IA da PrograMaria, utilizando HTML, CSS e JavaScript com apoio de ferramentas de Inteligência Artificial.
 
 <p align="center">
   <img src="cover.png" width="900">
@@ -10,47 +10,66 @@
 
 🌐 **https://jogo-aum.netlify.app/**
 
-> 📱 O jogo pode ser acessado pelo computador, mas foi desenvolvido com foco em dispositivos móveis. Em iPhones, recomenda-se adicioná-lo à tela inicial para utilizá-lo em tela cheia, proporcionando uma experiência semelhante à de um aplicativo.
+> 📱 O jogo pode ser acessado pelo computador, mas foi desenvolvido com foco em dispositivos móveis. Em iPhones, recomenda-se adicioná-lo à tela inicial para uma experiência em tela cheia semelhante à de um aplicativo.
 
 ---
 
 ## 📖 Sobre o projeto
 
-O Jogo AUM foi desenvolvido como projeto acadêmico durante a Sprint IA da PrograMaria.
+O Jogo AUM é um jogo interativo no qual a personagem POPI viaja por diferentes cidades e enfrenta desafios relacionados às suas aventuras.
 
-O desafio proposto era criar um jogo para praticar habilidades de Vibe Coding. A ideia evoluiu e acabou se transformando em uma homenagem a uma amiga muito querida.
+A ideia surgiu durante a Sprint IA da PrograMaria e evoluiu para uma homenagem personalizada a uma amiga querida, incorporando sua personalidade, voz e elementos visuais criados especialmente para o projeto.
 
-A personagem POPI adora viajar e experimentar comidas típicas em cada cidade que visita. Quando volta para casa, já está economizando e planejando o próximo destino. No jogo não poderia ser diferente!
+Atualmente, o jogo possui três fases e foi estruturado de forma a permitir a inclusão de novas cidades e desafios.
 
 ---
 
 ## 👩‍💻 Minha participação
 
-Durante o desenvolvimento fui responsável por:
+Atuei em diferentes etapas do desenvolvimento e fui responsável por:
 
-- concepção da ideia do jogo;
-- definição do fluxo de navegação;
-- criação da identidade visual;
-- criação das ilustrações com apoio de IA;
-- gravação das falas da personagem POPI;
-- testes e validação da experiência do usuário;
-- refinamento contínuo do projeto até a publicação.
+-criação da história e definição do fluxo de navegação;
+-definição da identidade visual e dos elementos da experiência;
+-criação das ilustrações com apoio de Inteligência Artificial;
+-gravação das falas da personagem POPI;
+-testes e validação das funcionalidades;
+-identificação de problemas e refinamento da experiência;
+-evolução do projeto até sua publicação.
 
 ---
 
 ## 🛠 Processo de desenvolvimento
 
-O projeto passou por diferentes etapas até sua publicação. Atualmente conta com três fases, mas foi estruturado para permitir a expansão com novas cidades e desafios.
+O desenvolvimento começou no **Replit**, durante a Sprint IA da PrograMaria, com orientação da tutora do curso.
 
-A implementação começou no **Replit**, durante a Sprint IA da PrograMaria, com orientação da tutora do curso. Após atingir os limites da plataforma, continuei o desenvolvimento no **Cursor AI**, onde também encontrei limitações de uso.
+Após atingir limitações da plataforma, o desenvolvimento continuou no **Cursor**, mantendo a estrutura do projeto e realizando novas implementações e ajustes.
 
-Mesmo com uma versão funcional, decidi continuar aprimorando o projeto.
+Durante o processo, utilizei **ChatGPT** e **Claude** como ferramentas de apoio para:
 
-Utilizei **ChatGPT** e **Claude** como apoio para revisar trechos de código, solucionar problemas encontrados durante os testes e implementar melhorias que considerei importantes para a experiência do jogador.
+-revisar trechos de código;
+-investigar e solucionar problemas;
+-implementar melhorias;
+-testar diferentes abordagens;
+-refinar funcionalidades.
 
-As ilustrações foram criadas com o **Microsoft Copilot Image Creator**. Os efeitos sonoros foram obtidos em bibliotecas gratuitas e todas as falas da personagem **POPI** foram gravadas especialmente para este projeto.
+As ilustrações foram criadas com apoio do **Copilot**. Os efeitos sonoros foram obtidos em bibliotecas gratuitas, enquanto todas as falas da personagem **POPI** foram gravadas especialmente para o projeto.
 
-A versão final foi publicada no **Netlify** e compartilhada com amigos para validação das funcionalidades. Além dos testes bem-sucedidos, o projeto proporcionou um momento muito especial: ver a emoção da própria Popi ao se reconhecer no jogo e dizer que nunca havia recebido uma homenagem tão bonita e personalizada!
+Após os testes, a versão final foi publicada na **Netlify** e compartilhada para validação das funcionalidades e da experiência de uso.
+
+---
+
+## 🧠 Habilidades desenvolvidas
+
+Durante o projeto, desenvolvi e pratiquei conhecimentos relacionados a:
+
+-desenvolvimento web com HTML, CSS e JavaScript;
+-experiência do usuário (UX);
+-prototipação e evolução de interfaces;
+-resolução de problemas;
+-testes e validação de funcionalidades;
+-desenvolvimento assistido por Inteligência Artificial;
+-adaptação entre diferentes ferramentas de desenvolvimento;
+-organização e evolução de um projeto até sua publicação.
 
 ---
 
@@ -74,32 +93,20 @@ A versão final foi publicada no **Netlify** e compartilhada com amigos para val
 
 ---
 
-## 🧠 Principais aprendizados
-
-Durante este projeto desenvolvi habilidades relacionadas a:
-
-- resolução de problemas;
-- adaptação entre diferentes ferramentas;
-- desenvolvimento assistido por IA;
-- experiência do usuário (UX);
-- testes e refinamento de funcionalidades;
-- organização de um projeto do início à publicação.
-
----
-
 ## 🛠 Tecnologias e ferramentas
 
-- HTML
-- CSS
-- JavaScript
-- Replit
-- Cursor AI
-- ChatGPT
-- Claude
-- Microsoft Copilot Image Creator
-- DALL·E
-- Netlify
+-HTML
+-CSS
+-JavaScript
+-Replit
+-Cursor
+-ChatGPT
+-Claude
+-Microsoft Copilot Image Creator
+-Netlify
 
 ---
 
-Projeto desenvolvido por **Lauren Gularte Pereira**.
+## 📌 Projeto
+
+**Desenvolvido por Lauren Gularte Pereira**
