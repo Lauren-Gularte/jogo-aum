@@ -28,13 +28,13 @@ Atualmente, o jogo possui três fases e foi estruturado de forma a permitir a in
 
 Atuei em diferentes etapas do desenvolvimento e fui responsável por:
 
--criação da história e definição do fluxo de navegação;
--definição da identidade visual e dos elementos da experiência;
--criação das ilustrações com apoio de Inteligência Artificial;
--gravação das falas da personagem POPI;
--testes e validação das funcionalidades;
--identificação de problemas e refinamento da experiência;
--evolução do projeto até sua publicação.
+- criação da história e definição do fluxo de navegação;
+- definição da identidade visual e dos elementos da experiência;
+- criação das ilustrações com apoio de Inteligência Artificial;
+- gravação das falas da personagem POPI;
+- testes e validação das funcionalidades;
+- identificação de problemas e refinamento da experiência;
+- evolução do projeto até sua publicação.
 
 ---
 
@@ -46,11 +46,11 @@ Após atingir limitações da plataforma, o desenvolvimento continuou no **Curso
 
 Durante o processo, utilizei **ChatGPT** e **Claude** como ferramentas de apoio para:
 
--revisar trechos de código;
--investigar e solucionar problemas;
--implementar melhorias;
--testar diferentes abordagens;
--refinar funcionalidades.
+- revisar trechos de código;
+- investigar e solucionar problemas;
+- implementar melhorias;
+- testar diferentes abordagens;
+- refinar funcionalidades.
 
 As ilustrações foram criadas com apoio do **Copilot**. Os efeitos sonoros foram obtidos em bibliotecas gratuitas, enquanto todas as falas da personagem **POPI** foram gravadas especialmente para o projeto.
 
@@ -62,14 +62,14 @@ Após os testes, a versão final foi publicada na **Netlify** e compartilhada pa
 
 Durante o projeto, desenvolvi e pratiquei conhecimentos relacionados a:
 
--desenvolvimento web com HTML, CSS e JavaScript;
--experiência do usuário (UX);
--prototipação e evolução de interfaces;
--resolução de problemas;
--testes e validação de funcionalidades;
--desenvolvimento assistido por Inteligência Artificial;
--adaptação entre diferentes ferramentas de desenvolvimento;
--organização e evolução de um projeto até sua publicação.
+- desenvolvimento web com HTML, CSS e JavaScript;
+- experiência do usuário (UX);
+- prototipação e evolução de interfaces;
+- resolução de problemas;
+- testes e validação de funcionalidades;
+- desenvolvimento assistido por Inteligência Artificial;
+- adaptação entre diferentes ferramentas de desenvolvimento;
+- organização e evolução de um projeto até sua publicação.
 
 ---
 
@@ -95,15 +95,15 @@ Durante o projeto, desenvolvi e pratiquei conhecimentos relacionados a:
 
 ## 🛠 Tecnologias e ferramentas
 
--HTML
--CSS
--JavaScript
--Replit
--Cursor
--ChatGPT
--Claude
--Microsoft Copilot Image Creator
--Netlify
+- HTML
+- CSS
+- JavaScript
+- Replit
+- Cursor
+- ChatGPT
+- Claude
+- Microsoft Copilot Image Creator
+- Netlify
 
 ---
 
